@@ -1,2 +1,2 @@
 # Talha-Ejaz
-Under Training
+Web Developer and Designer
