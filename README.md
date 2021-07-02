@@ -1,2 +1,1 @@
-# Talha-Ejaz
-Web Developer and Designer
+# Hack Assembler
